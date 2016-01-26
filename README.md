@@ -1,2 +1,1 @@
-# irc
-#ciut allneywotk
+ciut IRC..
